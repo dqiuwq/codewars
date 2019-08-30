@@ -1,7 +1,6 @@
 /*
  * Author: dqiuwq
  * Date: 30/8/2019
- * 
  */
 #include <sstream>
 #include <string>
