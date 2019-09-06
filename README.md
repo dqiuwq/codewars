@@ -1,9 +1,3 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 # This repo contains all my solutions to problems that I have submitted in CodeWars
 
 ## C++
